@@ -1,0 +1,70 @@
+.logo-cont {
+  display: flex;
+  align-items: center;
+}
+.salary-cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.description {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.desc {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #cbd5e1;
+}
+.company-logo {
+  height: 60px;
+  width: 60px;
+  margin-right: 10px;
+}
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #ffffff;
+  height: 15px;
+}
+.rating {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.package {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.list-items {
+  background-color: #272727;
+  padding: 20px;
+  border-radius: 10px;
+  border-width: 0px;
+  margin-bottom: 10px;
+}
+.contOf {
+  display: flex;
+  align-items: center;
+}
+.location {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.type {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.type-cont {
+  margin-right: 10px;
+}
+.link {
+  text-decoration: none;
+}

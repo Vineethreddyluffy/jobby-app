@@ -1,0 +1,62 @@
+.website-img {
+  height: 40px;
+  width: 120px;
+  align-self: center;
+  margin-bottom: 30px;
+}
+.second-cont {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+.third-cont {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+.login-btn {
+  font-size: 14px;
+  font-family: 'Roboto';
+  border-width: 0px;
+  outline: none;
+  border-radius: 6px;
+  background-color: #6366f1;
+  padding: 10px;
+  color: #ffffff;
+}
+.label {
+  font-size: 14px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-bottom: 4px;
+}
+.input {
+  height: 26px;
+  border-radius: 8px;
+  outline: none;
+  background-color: transparent;
+  border: solid 1px #475569;
+  color: #7e858e;
+  padding-left: 10px;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  min-height: 100vh;
+}
+.form-cont {
+  display: flex;
+  flex-direction: column;
+  background-color: #202020;
+  padding: 30px;
+  width: 300px;
+  border-radius: 6px;
+}
+.error-msg {
+  font-size: 12px;
+  font-family: 'Roboto';
+  color: #ff0b37;
+}

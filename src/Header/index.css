@@ -1,0 +1,33 @@
+.logo {
+  height: 40px;
+  width: 140px;
+}
+.para {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin: 10px;
+}
+.logout-btn {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  background-color: #6366f1;
+  border-width: 0px;
+  outline: none;
+  border-radius: 6px;
+  padding: 10px;
+}
+.header-cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #202020;
+  padding: 20px;
+}
+.text-cont {
+  display: flex;
+  align-items: center;
+}

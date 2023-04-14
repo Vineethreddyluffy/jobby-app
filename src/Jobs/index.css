@@ -1,0 +1,134 @@
+.profile-cont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  height: 200px;
+  width: 230px;
+  background-size: cover;
+  padding: 20px;
+  border-radius: 20px;
+}
+.profile-name {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #b6c5ff;
+}
+.profile-para {
+  font-size: 16px;
+  font-family: 'Roboto';
+  color: #475569;
+  width: 200px;
+}
+.full-cont {
+  background-color: #000000;
+  min-height: 100vh;
+  background-size: cover;
+}
+.labelOf {
+  color: #cbd5e1;
+  font-size: 16px;
+  font-family: 'Roboto';
+  margin-left: 5px;
+}
+.first-card {
+  list-style-type: none;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+.second-card {
+  list-style-type: none;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+.sub-head {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.first-side {
+  padding: 20px;
+}
+.loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.second-side {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+}
+.search-cont {
+  border: solid 1px #475569;
+  border-radius: 6px;
+  align-self: flex-start;
+}
+.search-btn {
+  background-color: #272727;
+  border-width: 0px;
+  outline: none;
+  height: 30px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+.search-input {
+  width: 400px;
+  background-color: transparent;
+  font-size: 16px;
+  font-family: 'Roboto';
+  color: #cbd5e1;
+  border-width: 0px;
+  outline: none;
+  padding-left: 10px;
+}
+.search-icon {
+  color: #f1f5f9;
+}
+.jobs-cont {
+  display: flex;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.cardOf {
+  list-style-type: none;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+.no-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 90vh;
+}
+.no-head {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.no-para {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #475569;
+}
+.job-logo {
+  height: 300px;
+  width: 400px;
+}
+.failure-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.retry-btn {
+  background-color: #4f46e5;
+  color: #ffffff;
+  border-width: 0px;
+  outline: none;
+  padding: 10px;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
